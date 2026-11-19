@@ -1,0 +1,8 @@
+{
+  "name": "Safari — Safe School Transport Platform",
+  "description": "School transport visibility, safe handover coordination, live operations dashboard, and production engineering blueprint for parents, schools, and students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
